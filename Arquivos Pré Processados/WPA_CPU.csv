@@ -1,4 +1,4 @@
-Teste,Line #, New Process, New Thread Id, New Thread Stack, Ready Thread Stack, Readying Process, Readying Thread Id, Count, CPU Usage (in view) (ms) (sum), Ready (us) (sum), Waits (us) (sum), Ready (us) (max), Waits (us) (max), Count Waits (us) (sum), Switch-In Time (s), New In Pri, CPU, Ideal Cpu, % CPU Usage (sum)
+Teste,Line #,New Process,New Thread Id,New Thread Stack,Ready Thread Stack,Readying Process,Readying Thread Id,Count,CPU Usage (in view) (ms) (sum),Ready (us) (sum),Waits (us) (sum),Ready (us) (max),Waits (us) (max),Count Waits (us) (sum),Switch-In Time (s),New In Pri,CPU,Ideal Cpu,% CPU Usage (sum)
 1,1,RecRoom.exe (12364),,,,,,1365196,"435.087,307000","258.056.351,000","11.459.433.780,400","2.040.914,000","175.137.902,000",704360,,,,,"58,17"
 2,1,RecRoom.exe (12364),,,,,,1394689,"378.279,720500","372.362.922,900","10.824.580.875,700","5.069.339,100","172.071.008,800",757237,,,,,"51,54"
 3,2,RecRoom.exe (12364),,,,,,929807,"214.785,533200","85.799.363,700","10.823.647.947,500","735.739,900","174.023.846,400",654224,,,,,"28,71"
