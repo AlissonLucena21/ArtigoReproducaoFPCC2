@@ -1,4 +1,4 @@
-Test, Duration (ms), Start Time (s), End Time (s), % Capacity, % Last Charge Capacity, Capacity Drain (mWh), Capacity (mWh)
+Teste, Duration (ms), Start Time (s), End Time (s), % Capacity, % Last Charge Capacity, Capacity Drain (mWh), Capacity (mWh)
 1, 186829.909200, 18.248808800, 205.078718000, 87.302, 100.000, 1505, 36742
 2, 206520.678000, 29.523359600, 236.044037600, 79.444, 90.999, 1128, 33557
 3, 186623.954400, 32.550328500, 219.174282900, 74.206, 85.000, 752, 31507
