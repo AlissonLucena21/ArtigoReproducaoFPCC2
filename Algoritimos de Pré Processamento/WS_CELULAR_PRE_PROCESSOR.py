@@ -1,7 +1,7 @@
 import csv
 
 # Definir os índices das colunas a serem removidas (baseados em zero)
-indices_colunas_a_remover = [1, 4, 5, 6, 7]
+indices_colunas_a_remover = [1, 4, 6, 7]
 
 # Nome dos arquivos CSV de entrada
 arquivos_csv = ['Teste 1_CELULAR_WS.csv',
